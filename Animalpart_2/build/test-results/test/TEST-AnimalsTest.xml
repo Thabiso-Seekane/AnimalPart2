@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnimalsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-12-04T10:12:45" hostname="recruit-Lenovo-Product" time="0.02">
+  <properties/>
+  <testcase name="dogSounds()" classname="AnimalsTest" time="0.013"/>
+  <testcase name="catEats()" classname="AnimalsTest" time="0.001"/>
+  <testcase name="catSounds()" classname="AnimalsTest" time="0.001"/>
+  <testcase name="dogEats()" classname="AnimalsTest" time="0.001"/>
+  <system-out><![CDATA[Dog making a sound test passed!!
+Cat eating food test passed!!
+Cat making sound test passed!!
+Dog eating food test passed!!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
